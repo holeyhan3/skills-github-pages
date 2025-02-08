@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+## title: Welcome to my Portfolio ##
+
+- Markdown works for this
+- Great.
 ---
 
